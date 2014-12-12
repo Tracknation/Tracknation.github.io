@@ -1,6 +1,6 @@
 
 h1{
-	color: rbg(22, 22, 250);
+	color: blue;
 	background-color: grey;
 	text-align: center;
 
@@ -8,8 +8,8 @@ h1{
 
 body {
 	font-size: 14px;
-	background-color: navy;
-	color: navy;
+	
+	color: grey;
 }
 
 p{
@@ -23,11 +23,12 @@ a{
 
 nav{
 	text-align: left;
-	color:grey;
+	color: red;
+	
 }
 
 h2{
-	color: rbg(22, 22, 250);
+	color: blue;
 	background-color: grey;
 	
 }
