@@ -18,6 +18,15 @@ p{
 
 a{
 	color: purple;
-	
+}
 
+nav{
+	text-align: right;
+	color:grey;
+}
+
+h2{
+	color: rbg(22, 22, 250);
+	background-color: grey;
+	
 }
