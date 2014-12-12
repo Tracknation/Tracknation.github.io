@@ -1,13 +1,23 @@
 
-h1 {
+h1{
 	color: rbg(22, 22, 250);
+	background-color: grey;
+	text-align: center;
 
 }
 
-p {
+body{
+	font-size: 14px;
+	color: blue;
+}
+
+p{
 	color: red;
+	background-color: grey;
 }
 
-a {
+a{
+	color: purple;
+	
 
 }
