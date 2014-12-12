@@ -8,11 +8,11 @@ h1{
 
 body{
 	font-size: 14px;
-	color: blue;
+	background-color: rbg(155, 155, 155);
 }
 
 p{
-	color: red;
+	color: rbg(39,171,20);
 	background-color: grey;
 }
 
