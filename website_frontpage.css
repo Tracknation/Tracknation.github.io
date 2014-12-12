@@ -6,9 +6,9 @@ h1{
 
 }
 
-body{
+body {
 	font-size: 14px;
-	background-color: rbg(155, 155, 155);
+	background-color: navy;
 }
 
 p{
@@ -21,7 +21,7 @@ a{
 }
 
 nav{
-	text-align: right;
+	text-align: left;
 	color:grey;
 }
 
