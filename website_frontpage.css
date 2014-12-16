@@ -1,33 +1,57 @@
 
 h1{
-	color: blue;
-	background-color: grey;
+	color: white;
+	background-color: black;
 	text-align: center;
-
+	padding:20px;
+	border-width: 10px;
+	border-style: outset;
+	border-color:grey;
 }
 
 body {
 	font-size: 14px;
 	color: black;
+	background-color: rbg(31, 250, 244);
+	
 }
 
 p{
 	color: rbg(39,171,20);
-	background-color: grey;
+	
 }
 
 a{
 	color: purple;
 }
 
+
+h2{
+	color: blue;
+	
+	
+}
 nav{
+	background-color: #3515b0;
 	text-align: left;
 	color: red;
 	
 }
+nav a{
+	color: yellow;
+	text-decoration: none;
+	
 
-h2{
-	color: blue;
-	background-color: grey;
+}
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav li{
+	display: inline;
+	padding-left: 20%;
+	
 	
 }

@@ -1,0 +1,45 @@
+nav{
+	background-color: #3515b0;
+	text-align: left;
+	color: red;
+	
+}
+nav a{
+	color: yellow;
+	text-decoration: none;
+	padding-top: 50px;
+
+}
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+nav li{
+	display: inline;
+	padding-left: 90px;
+}
+body{
+	background-color: 
+}
+
+h1{
+	background-color: black;
+	color: white; 
+	border-style: dashed;
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-color: grey;
+	text-align: center;
+	}
+	
+p{
+	color: navy;
+}
+li{
+	color: navy;
+}
+a{
+	color: black;
+	}
